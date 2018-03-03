@@ -43,7 +43,7 @@
 	<snapshotRepository>
 		<id>sample</id>
 		<name>Internal Releases</name>
-		<url>http://52.66.106.91:8081/nexus/content/repositories/snapshot/</url>
+		<url>http://localhost:8081/repository/SAMPLE_SNAP/</url>
 	</snapshotRepository>
 
 </distributionManagement>
