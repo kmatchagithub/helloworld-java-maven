@@ -44,13 +44,6 @@
 		<name>Internal Releases</name>
 		<url>http://localhost:8081/repository/SAMPLE_REL/</url>
 	</repository>
- 
-	<snapshotRepository>
-		<id>sample</id>
-		<name>Internal Releases</name>
-		<url>http://localhost:8081/repository/SAMPLE_SNAP/</url>
-	</snapshotRepository>
-
-</distributionManagement>
+ </distributionManagement>
  
 </project>
